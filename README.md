@@ -4,3 +4,11 @@
 ## Tips
 ### File/Invalidate and restart 
 ### Cat log, setting android version
+### build.gradle
+#### repositories
+```
+{
+  jcenter()
+  google()
+}
+```
