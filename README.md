@@ -12,6 +12,16 @@
 ### File/Invalidate and restart 
 ### Cat log, setting android version
 ### build.gradle
+#### dependencies 
+```
+dependencies {
+  // Face features
+  implementation 'com.google.mlkit:face-detection:16.0.0'
+
+  // Text features
+  implementation 'com.google.android.gms:play-services-mlkit-text-recognition:16.0.0'
+}
+```
 #### repositories
 ```
 {
