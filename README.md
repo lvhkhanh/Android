@@ -29,3 +29,7 @@ dependencies {
   google()
 }
 ```
+## Notes
+```
+addOnSuccessListener + addOnFailureListener => addOnCompletedListener check Task.Result 
+```
