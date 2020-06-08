@@ -37,3 +37,6 @@ dependencies {
 ```
 addOnSuccessListener + addOnFailureListener => addOnCompletedListener check Task.Result 
 ```
+## Steps
+### Wireframing
+Split screens
