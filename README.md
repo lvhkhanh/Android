@@ -39,4 +39,4 @@ addOnSuccessListener + addOnFailureListener => addOnCompletedListener check Task
 ```
 ## Steps
 ### Wireframing
-Split screens
+Split screens, flows to each screen
