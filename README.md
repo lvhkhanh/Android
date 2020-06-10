@@ -43,3 +43,9 @@ addOnSuccessListener + addOnFailureListener => addOnCompletedListener check Task
 ## Steps
 ### Wireframing
 Split screens, flows to each screen
+### Theme colors
+```
+primary
+primary dark
+accent
+```
