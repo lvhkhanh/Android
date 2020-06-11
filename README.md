@@ -1,6 +1,8 @@
 # Android
 ## Official
 ### https://developer.android.com/studio/index.html
+## Downloads
+### https://developer.android.com/studio/preview
 ## Prerequisites
 ### https://www.codecademy.com/learn/learn-kotlin/
 ### https://www.codecademy.com/learn/learn-java
