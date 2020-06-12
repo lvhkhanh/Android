@@ -7,6 +7,7 @@
 ### https://www.codecademy.com/learn/learn-kotlin/
 ### https://www.codecademy.com/learn/learn-java
 ## Labs
+### https://codelabs.developers.google.com/codelabs/android-hilt
 ### https://codelabs.developers.google.com/codelabs/android-dagger-to-hilt
 ### https://codelabs.developers.google.com/codelabs/android-dagger
 ### https://codelabs.developers.google.com/codelabs/android-performance-tuner-unity/index.html?index=..%2F..index
