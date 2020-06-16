@@ -22,6 +22,9 @@
 ## IDE
 ### Android Studio
 #### Darcula, Dark, Black theme | Light, White theme
+#### Settings
+##### Add Unambiguous Imports on the fly
+##### Optimized Imports on the fly
 #### Pluggin
 ##### Markdown
 ### IntelliJ
