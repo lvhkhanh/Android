@@ -13,6 +13,7 @@
 ### https://codelabs.developers.google.com/codelabs/android-performance-tuner-unity/index.html?index=..%2F..index
 ## Courses
 ### https://alison.com/courses/create-android-apps-using-firestore/content
+### https://app.pluralsight.com/library/courses/rxandroid-kotlin-reactive-programming/table-of-contents
 ### https://codelabs.developers.google.com/codelabs/while-in-use-location/index.html?index=..%2F..index#0
 ### https://app.pluralsight.com/library/courses/android-working-exoplayer/table-of-contents
 ## Paths
