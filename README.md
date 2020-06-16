@@ -49,6 +49,7 @@ dependencies {
 ```
 ## Notes
 ```
+RxJava, RxKotlin, RxAndroid
 addOnSuccessListener + addOnFailureListener => addOnCompletedListener check Task.Result 
 ```
 ## Steps
