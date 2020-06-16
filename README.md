@@ -20,6 +20,8 @@
 ## IDE
 ### Android Studio
 #### Darcula, Dark, Black theme | Light, White theme
+#### Pluggin
+##### Markdown
 ### IntelliJ
 #### Android SDK
 #### Pluggin Android
