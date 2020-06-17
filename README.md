@@ -56,6 +56,7 @@ dependencies {
 ```
 ## Notes
 ```
+App foreground -> toast, background -> notification
 RxJava, RxKotlin, RxAndroid
 addOnSuccessListener + addOnFailureListener => addOnCompletedListener check Task.Result 
 ```
