@@ -15,6 +15,7 @@
 ### https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin
 ## Courses
 ### https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
+### https://www.udacity.com/course/advanced-android-with-kotlin--ud940
 ### https://developer.android.com/courses/kotlin-android-fundamentals/overview
 ### https://developer.android.com/courses/kotlin-android-fundamentals/toc
 ### https://alison.com/courses/create-android-apps-using-firestore/content
