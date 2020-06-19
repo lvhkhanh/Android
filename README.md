@@ -28,6 +28,7 @@
 ### https://codelabs.developers.google.com/codelabs/while-in-use-location/index.html?index=..%2F..index#0
 ### https://app.pluralsight.com/library/courses/android-working-exoplayer/table-of-contents
 ## Paths
+### https://www.pluralsight.com/paths/google-android-associate-developer-aad
 ### https://www.codecademy.com/learn/paths/introduction-to-android-with-java
 ## IDE
 ### Android Studio
