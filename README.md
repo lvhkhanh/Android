@@ -8,6 +8,15 @@
 ## Prerequisites
 ### https://www.codecademy.com/learn/learn-kotlin/
 ### https://www.codecademy.com/learn/learn-java
+## Paths
+### https://app.pluralsight.com/paths/skill/android-development-with-kotlin-fundamentals 17h
+### https://www.pluralsight.com/paths/google-android-associate-developer-aad
+### https://app.pluralsight.com/paths/skills/google-android-associate-developer-aad
+### https://www.bitdegree.org/learning-path/android-dev $78K
+### https://www.linkedin.com/learning/paths/become-an-android-mobile-app-developer
+### https://www.codecademy.com/learn/paths/introduction-to-android-with-java
+## Assessments
+### https://app.pluralsight.com/score/skill-assessment/android-security
 ## Labs
 ### https://codelabs.developers.google.com/kotlin-bootcamp/
 ### https://codelabs.developers.google.com/android-kotlin-fundamentals/
@@ -28,12 +37,6 @@
 ### https://app.pluralsight.com/library/courses/rxandroid-kotlin-reactive-programming/table-of-contents
 ### https://codelabs.developers.google.com/codelabs/while-in-use-location/index.html?index=..%2F..index#0
 ### https://app.pluralsight.com/library/courses/android-working-exoplayer/table-of-contents
-## Paths
-### https://www.pluralsight.com/paths/google-android-associate-developer-aad
-### https://app.pluralsight.com/paths/skills/google-android-associate-developer-aad
-### https://www.bitdegree.org/learning-path/android-dev $78K
-### https://www.linkedin.com/learning/paths/become-an-android-mobile-app-developer
-### https://www.codecademy.com/learn/paths/introduction-to-android-with-java
 ## Links
 ### https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d
 ### https://learntocodewith.me/posts/android-developer/
