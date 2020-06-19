@@ -33,6 +33,8 @@
 ### https://app.pluralsight.com/paths/skills/google-android-associate-developer-aad
 ### https://www.bitdegree.org/learning-path/android-dev $78K
 ### https://www.codecademy.com/learn/paths/introduction-to-android-with-java
+## Links
+### https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d
 ## IDE
 ### Android Studio
 #### Darcula, Dark, Black theme | Light, White theme
