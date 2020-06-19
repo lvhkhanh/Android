@@ -29,6 +29,7 @@
 ### https://app.pluralsight.com/library/courses/android-working-exoplayer/table-of-contents
 ## Paths
 ### https://www.pluralsight.com/paths/google-android-associate-developer-aad
+### https://app.pluralsight.com/paths/skills/google-android-associate-developer-aad
 ### https://www.codecademy.com/learn/paths/introduction-to-android-with-java
 ## IDE
 ### Android Studio
