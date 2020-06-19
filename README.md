@@ -30,6 +30,7 @@
 ## Paths
 ### https://www.pluralsight.com/paths/google-android-associate-developer-aad
 ### https://app.pluralsight.com/paths/skills/google-android-associate-developer-aad
+### https://www.bitdegree.org/learning-path/android-dev $78K
 ### https://www.codecademy.com/learn/paths/introduction-to-android-with-java
 ## IDE
 ### Android Studio
