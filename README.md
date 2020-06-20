@@ -105,3 +105,5 @@ accent
 |   |Column   |Column   |   |   |
 |   |Row   |Row   |   |   |
 |   |Modifiers   |`<tag modifier="modifier">`   |   |   |
+|   |```image = imageResource(R.id.image); Image(image)```   |`<img src="src">`   |   |   |
+|   |`Spacer()`   |`<div data-hold="maximum as posible"/>`   |   |   |
