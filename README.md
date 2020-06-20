@@ -83,9 +83,11 @@ dependencies {
 ```
 ## Notes
 ```
+Compose UI default stack overlay
 App foreground -> toast, background -> notification
 RxJava, RxKotlin, RxAndroid
 addOnSuccessListener + addOnFailureListener => addOnCompletedListener check Task.Result 
+
 ```
 ## Steps
 ### Wireframing
@@ -97,7 +99,7 @@ primary dark
 accent
 ```
 ## Mapping
-|   |   |   |   |   |
+|   |Compose   |HTML   |   |   |
 |---|---|---|---|---|
 |   |Text("text")   |`<span>text</span>`   |   |   |
 |   |   |   |   |   |
