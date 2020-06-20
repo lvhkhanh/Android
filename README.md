@@ -3,6 +3,9 @@
 ### https://developer.android.com/studio/index.html
 ### https://developer.android.com/courses
 ### https://developers.google.com/certification/associate-android-developer
+### https://developer.android.com/jetpack/compose
+### https://developer.android.com/jetpack/compose/setup
+### https://developer.android.com/jetpack/compose/tutorial
 ## Downloads
 ### https://developer.android.com/studio/preview
 ## Prerequisites
@@ -18,6 +21,7 @@
 ## Assessments
 ### https://app.pluralsight.com/score/skill-assessment/android-security
 ## Labs
+### https://codelabs.developers.google.com/codelabs/jetpack-compose-basics/#0
 ### https://codelabs.developers.google.com/kotlin-bootcamp/
 ### https://codelabs.developers.google.com/android-kotlin-fundamentals/
 ### https://codelabs.developers.google.com/advanced-android-kotlin-training/
@@ -39,6 +43,9 @@
 ### https://codelabs.developers.google.com/codelabs/while-in-use-location/index.html?index=..%2F..index#0
 ### https://app.pluralsight.com/library/courses/android-working-exoplayer/table-of-contents
 ## Links
+### https://blog.mindorks.com/using-jetpack-compose-to-build-ui-in-android
+### https://www.raywenderlich.com/7032631-jetpack-compose-tutorial-for-android-getting-started
+### https://medium.com/better-programming/jetpack-compose-a-new-and-simple-way-to-create-material-ui-in-android-f49c6fcb448b
 ### https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d
 ### https://learntocodewith.me/posts/android-developer/
 ### https://generalassemb.ly/blog/7-essential-skills-you-need-to-be-an-android-developer/
