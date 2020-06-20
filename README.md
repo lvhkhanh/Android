@@ -96,3 +96,9 @@ primary
 primary dark
 accent
 ```
+## Mapping
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |Text("text")   |`<span>text</span>`   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
