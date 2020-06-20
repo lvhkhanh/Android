@@ -102,5 +102,6 @@ accent
 |   |Compose   |HTML   |   |   |
 |---|---|---|---|---|
 |   |Text("text")   |`<span>text</span>`   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|   |Column   |Column   |   |   |
+|   |Row   |Row   |   |   |
+|   |Modifiers   |`<tag modifier="modifier">`   |   |   |
