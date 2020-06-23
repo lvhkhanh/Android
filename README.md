@@ -21,6 +21,7 @@
 ## Assessments
 ### https://app.pluralsight.com/score/skill-assessment/android-security
 ## Labs
+### ### https://developer.android.com/courses/kotlin-android-fundamentals
 ### https://codelabs.developers.google.com/codelabs/jetpack-compose-basics/#0
 ### https://codelabs.developers.google.com/kotlin-bootcamp/
 ### https://codelabs.developers.google.com/android-kotlin-fundamentals/
