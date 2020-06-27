@@ -21,7 +21,7 @@
 ## Assessments
 ### https://app.pluralsight.com/score/skill-assessment/android-security
 ## Labs
-### ### https://developer.android.com/courses/kotlin-android-fundamentals
+### https://developer.android.com/courses/kotlin-android-fundamentals
 ### https://codelabs.developers.google.com/codelabs/jetpack-compose-basics/#0
 ### https://codelabs.developers.google.com/kotlin-bootcamp/
 ### https://codelabs.developers.google.com/android-kotlin-fundamentals/
@@ -43,6 +43,7 @@
 ### https://app.pluralsight.com/library/courses/rxandroid-kotlin-reactive-programming/table-of-contents
 ### https://codelabs.developers.google.com/codelabs/while-in-use-location/index.html?index=..%2F..index#0
 ### https://app.pluralsight.com/library/courses/android-working-exoplayer/table-of-contents
+### https://app.pluralsight.com/library/courses/android-drawables-images/table-of-contents
 ## Links
 ### https://blog.mindorks.com/using-jetpack-compose-to-build-ui-in-android
 ### https://www.raywenderlich.com/7032631-jetpack-compose-tutorial-for-android-getting-started
