@@ -44,6 +44,8 @@
 ### https://codelabs.developers.google.com/codelabs/while-in-use-location/index.html?index=..%2F..index#0
 ### https://app.pluralsight.com/library/courses/android-working-exoplayer/table-of-contents
 ### https://app.pluralsight.com/library/courses/android-drawables-images/table-of-contents
+## Best Practices
+### SSL https://developer.android.com/topic/security/best-practices
 ## Links
 ### https://blog.mindorks.com/using-jetpack-compose-to-build-ui-in-android
 ### https://www.raywenderlich.com/7032631-jetpack-compose-tutorial-for-android-getting-started
