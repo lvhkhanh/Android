@@ -46,6 +46,7 @@
 ### https://app.pluralsight.com/library/courses/android-drawables-images/table-of-contents
 ## Best Practices
 ### SSL https://developer.android.com/topic/security/best-practices
+### Dependency Injection DI https://developer.android.com/training/dependency-injection/hilt-android
 ## Links
 ### https://blog.mindorks.com/using-jetpack-compose-to-build-ui-in-android
 ### https://www.raywenderlich.com/7032631-jetpack-compose-tutorial-for-android-getting-started
