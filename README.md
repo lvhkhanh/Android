@@ -11,6 +11,8 @@
 ## Prerequisites
 ### https://www.codecademy.com/learn/learn-kotlin/
 ### https://www.codecademy.com/learn/learn-java
+## Ebooks
+### https://www.syncfusion.com/ebooks/android
 ## Paths
 ### https://app.pluralsight.com/paths/skills/android-development-with-kotlin-fundamentals 17h
 ### https://app.pluralsight.com/paths/skill/android-development-with-kotlin-fundamentals 17h
