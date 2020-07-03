@@ -12,6 +12,7 @@
 ### https://www.codecademy.com/learn/learn-kotlin/
 ### https://www.codecademy.com/learn/learn-java
 ## Paths
+### https://app.pluralsight.com/paths/skills/android-development-with-kotlin-fundamentals 17h
 ### https://app.pluralsight.com/paths/skill/android-development-with-kotlin-fundamentals 17h
 ### https://www.pluralsight.com/paths/google-android-associate-developer-aad
 ### https://app.pluralsight.com/paths/skills/google-android-associate-developer-aad
