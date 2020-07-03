@@ -14,6 +14,7 @@
 ## Paths
 ### https://app.pluralsight.com/paths/skills/android-development-with-kotlin-fundamentals 17h
 ### https://app.pluralsight.com/paths/skill/android-development-with-kotlin-fundamentals 17h
+### https://app.pluralsight.com/paths/skill/google-android-associate-developer-aad 27h
 ### https://www.pluralsight.com/paths/google-android-associate-developer-aad
 ### https://app.pluralsight.com/paths/skills/google-android-associate-developer-aad
 ### https://www.bitdegree.org/learning-path/android-dev $78K
