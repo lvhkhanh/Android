@@ -101,6 +101,8 @@ Activity
     // prefer bundle then intent data
     saveInstanceState?.getData("DATA_KEY", "DATA_DEFAULT") ?: getIntentData("DATA_KEY", "DATA_DEFAULT")
     // adapter = ...
+    // set action on item click
+    startActivity(Intent(this, OtherActivity::class.java))
   onSaveInstanceState(outState: Bundle?)
     // call when rotate
     // save some state
