@@ -96,8 +96,12 @@ App foreground -> toast, background -> notification
 RxJava, RxKotlin, RxAndroid
 addOnSuccessListener + addOnFailureListener => addOnCompletedListener check Task.Result 
 Activity
+  onCreate()
+    // adapter = ...
   onPause
     saveData()
+  onResume()
+    adapter.notifyDataSetChanged()
 ```
 ## Steps
 ### Wireframing
