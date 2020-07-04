@@ -96,9 +96,13 @@ App foreground -> toast, background -> notification
 RxJava, RxKotlin, RxAndroid
 addOnSuccessListener + addOnFailureListener => addOnCompletedListener check Task.Result 
 Activity
-  onCreate()
+  onCreate(saveInstanceState: Bundle?)
     // called on rotate
+    // prefer bundle then intent data
+    saveInstanceState?.getData("DATA_KEY", "DATA_DEFAULT") ?: getIntentData("DATA_KEY", "DATA_DEFAULT")
     // adapter = ...
+  onSaveInstanceState()
+    //
   onPause
     saveData()
   onResume()
