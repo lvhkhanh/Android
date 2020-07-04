@@ -101,8 +101,10 @@ Activity
     // prefer bundle then intent data
     saveInstanceState?.getData("DATA_KEY", "DATA_DEFAULT") ?: getIntentData("DATA_KEY", "DATA_DEFAULT")
     // adapter = ...
-  onSaveInstanceState()
-    //
+  onSaveInstanceState(outState: Bundle?)
+    // call when rotate
+    // save some state
+    outState.putData("DATA_KEY", "DATA_CURRENT_VALUE")
   onPause
     saveData()
   onResume()
