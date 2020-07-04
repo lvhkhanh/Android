@@ -95,7 +95,9 @@ Compose UI default stack overlay
 App foreground -> toast, background -> notification
 RxJava, RxKotlin, RxAndroid
 addOnSuccessListener + addOnFailureListener => addOnCompletedListener check Task.Result 
-
+Activity
+  onPause
+    saveData()
 ```
 ## Steps
 ### Wireframing
