@@ -97,6 +97,7 @@ RxJava, RxKotlin, RxAndroid
 addOnSuccessListener + addOnFailureListener => addOnCompletedListener check Task.Result 
 Activity
   onCreate()
+    // called on rotate
     // adapter = ...
   onPause
     saveData()
