@@ -60,6 +60,7 @@
 ## IDE
 ### Android Studio
 #### Import Samples
+#### Instance run/ apply changes/ hot reloading
 #### Darcula, Dark, Black theme | Light, White theme
 #### Settings
 ##### Add Unambiguous Imports on the fly
