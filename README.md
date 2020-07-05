@@ -97,7 +97,10 @@ Compose UI default stack overlay
 App foreground -> toast, background -> notification
 RxJava, RxKotlin, RxAndroid
 addOnSuccessListener + addOnFailureListener => addOnCompletedListener check Task.Result 
-Activity
+build.gradle
+  dependencies
+    implementation 'androidx.support:appcompact:1.0'
+class MainActivity : AppCompactActivity(){
   onCreate(saveInstanceState: Bundle?)
     // called on rotate
     // prefer bundle then intent data
@@ -113,6 +116,7 @@ Activity
     saveData()
   onResume()
     adapter.notifyDataSetChanged()
+}
 ```
 ## Test
 ### JUnit
