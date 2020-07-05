@@ -112,6 +112,9 @@ Activity
   onResume()
     adapter.notifyDataSetChanged()
 ```
+## Test
+### JUnit
+### Espresso
 ## Steps
 ### Wireframing
 Split screens, flows to each screen
