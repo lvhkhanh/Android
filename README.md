@@ -59,6 +59,7 @@
 ### https://generalassemb.ly/blog/7-essential-skills-you-need-to-be-an-android-developer/
 ## IDE
 ### Android Studio
+#### Import Samples
 #### Darcula, Dark, Black theme | Light, White theme
 #### Settings
 ##### Add Unambiguous Imports on the fly
