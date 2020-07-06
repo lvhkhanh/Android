@@ -124,6 +124,12 @@ class OtherActivity: Activity(){
   }
 }
 class OtherActivityViewModel : ViewModel(){
+  fun saveState(outState: Bundle){
+    outState.putInt(intName, intValue)
+  }
+  fun restoreState(savedInstanceState: Bundle){
+    intValue = savedInstanceState.getInt(intName)
+  }
 }
 ```
 ## Test
