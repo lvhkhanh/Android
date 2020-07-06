@@ -104,7 +104,9 @@ class MainActivity : AppCompactActivity(){
   onCreate(saveInstanceState: Bundle?)
     // called on rotate
     // prefer bundle then intent data
-    viewModel.propName = saveInstanceState?.getData("DATA_KEY", "DATA_DEFAULT") ?: getIntentData("DATA_KEY", "DATA_DEFAULT")
+    if isNewlyCreated && savedInstanceState != null
+      viewModel.restoreState(savedInstanceState)
+    viewModel.isNewlyCreated = false
     // adapter = ...
     // set action on item click
     startActivity(Intent(this, OtherActivity::class.java))
@@ -124,6 +126,7 @@ class OtherActivity: Activity(){
   }
 }
 class OtherActivityViewModel : ViewModel(){
+  isNewlyCreated = true
   fun saveState(outState: Bundle){
     outState.putInt(intName, intValue)
   }
