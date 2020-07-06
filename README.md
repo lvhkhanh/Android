@@ -101,6 +101,7 @@ build.gradle
   dependencies
     implementation 'androidx.support:appcompact:1.0'
 class MainActivity : AppCompactActivity(){
+  val otherHelper = OtherHelper(this, lifecycle)
   onCreate(saveInstanceState: Bundle?)
     // called on rotate
     // prefer bundle then intent data
@@ -132,6 +133,27 @@ class OtherActivityViewModel : ViewModel(){
   }
   fun restoreState(savedInstanceState: Bundle){
     intValue = savedInstanceState.getInt(intName)
+  }
+}
+
+class OtherHelper(val context: Context, val lifecycle: Lifecycle): LiecycleObsever{
+  init {
+    lifecycle.addObserver(this)
+  }
+
+  val tag = this::class.simpleName
+  val currentLat = 0.0
+  val currentLon = 0.0
+  
+  val locManager = PLocManager(context){lat,lon ->
+    currentLat = lat
+    currentLon = on
+    Log.d(tag, "$lat $lon")
+  }
+  
+  @OnLifecycleEvent(Lifecycle.Event.ON_START)
+  fun startHandler(){
+    locManager.start()
   }
 }
 ```
