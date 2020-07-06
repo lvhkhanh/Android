@@ -117,6 +117,14 @@ class MainActivity : AppCompactActivity(){
   onResume()
     adapter.notifyDataSetChanged()
 }
+class OtherActivity: Activity(){
+  private val viewModel by lazy { ViewModelProviders.of(this)[OtherActivityViewModel::class.java] }
+  fun onCreate(){
+    val vm = ViewModel
+  }
+}
+class OtherActivityViewModel : ViewModel(){
+}
 ```
 ## Test
 ### JUnit
