@@ -164,6 +164,8 @@ class OtherHelper(val context: Context, val lifecycle: Lifecycle): LiecycleObsev
 ### Wireframing
 Split screens, flows to each screen
 ### Theme colors
+### UI/UX
+#### device-independant pixel dp, scalable pixel sp
 ```
 primary
 primary dark
