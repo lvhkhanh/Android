@@ -14,7 +14,7 @@
 ## Ebooks
 ### https://www.syncfusion.com/ebooks/android
 ## Paths
-### https://app.pluralsight.com/paths/skills/android-development-with-kotlin-fundamentals 17h [fallback](https://app.pluralsight.com/paths/skill/android-development-with-kotlin-fundamentals)
+- [x]  https://app.pluralsight.com/paths/skills/android-development-with-kotlin-fundamentals 17h [fallback](https://app.pluralsight.com/paths/skill/android-development-with-kotlin-fundamentals)
 ### https://app.pluralsight.com/paths/skill/google-android-associate-developer-aad 27h
 ### https://www.pluralsight.com/paths/google-android-associate-developer-aad
 ### https://app.pluralsight.com/paths/skills/google-android-associate-developer-aad
