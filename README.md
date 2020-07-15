@@ -185,3 +185,8 @@ accent
 annotation, binding, observable
 clean code, best practices, coding conventions, checklist
 ```
+
+## Build Process
+```
+kotlin/java -> *.class -> Dalvik Executable (DEX) -> Dalvik virtual machine used by Android -> Android Package (APK)
+```
