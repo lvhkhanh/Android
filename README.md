@@ -180,3 +180,7 @@ accent
 |   |Modifiers   |`<tag modifier="modifier">`   |   |   |
 |   |```image = imageResource(R.id.image); Image(image)```   |`<img src="src">`   |   |   |
 |   |`Spacer()`   |`<div data-hold="maximum as posible"/>`   |   |   |
+## Keywords
+```
+clean code, best practices, coding conventions, checklist
+```
