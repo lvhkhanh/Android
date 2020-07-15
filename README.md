@@ -183,6 +183,7 @@ accent
 ## Keywords
 ```
 annotation, binding, observable
+shrink
 clean code, best practices, coding conventions, checklist
 ```
 
