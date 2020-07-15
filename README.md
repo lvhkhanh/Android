@@ -182,5 +182,6 @@ accent
 |   |`Spacer()`   |`<div data-hold="maximum as posible"/>`   |   |   |
 ## Keywords
 ```
+annotation, binding
 clean code, best practices, coding conventions, checklist
 ```
