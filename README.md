@@ -11,6 +11,7 @@
 ## Prerequisites
 ### https://www.codecademy.com/learn/learn-kotlin/
 ### https://www.codecademy.com/learn/learn-java
+### where java add JAVA_HOME to PATH
 ## Ebooks
 ### https://www.syncfusion.com/ebooks/android
 ## Paths
@@ -47,6 +48,8 @@
 ### https://codelabs.developers.google.com/codelabs/while-in-use-location/index.html?index=..%2F..index#0
 ### https://app.pluralsight.com/library/courses/android-working-exoplayer/table-of-contents
 ### https://app.pluralsight.com/library/courses/android-drawables-images/table-of-contents
+## Tools
+### gradlew lint
 ## Best Practices
 ### SSL https://developer.android.com/topic/security/best-practices
 ### Dependency Injection DI https://developer.android.com/training/dependency-injection/hilt-android
