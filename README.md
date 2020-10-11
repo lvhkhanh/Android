@@ -11,6 +11,7 @@
 ## Downloads
 ### https://developer.android.com/studio/preview
 ## Prerequisites
+### https://www.udacity.com/course/how-to-use-git-and-github--ud775
 ### https://www.udacity.com/course/version-control-with-git--ud123 Approx. 4 Weeks
 ### https://www.udacity.com/course/github-collaboration--ud456 Approx. 4 Weeks
 ### https://www.codecademy.com/learn/learn-kotlin/
@@ -46,23 +47,28 @@
 ### https://codelabs.developers.google.com/codelabs/android-performance-tuner-unity/index.html?index=..%2F..index
 ### https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin
 ## Courses
-### https://www.udacity.com/course/android-basics-user-interface--ud834
-### https://www.udacity.com/course/android-basics-user-input--ud836
-### https://www.udacity.com/course/android-basics-multi-screen-apps--ud839
-### https://www.udacity.com/course/android-basics-networking--ud843
-### https://www.udacity.com/course/android-basics-data-storage--ud845
-### https://www.udacity.com/course/new-android-fundamentals--ud851
-### https://www.udacity.com/course/advanced-android-app-development--ud855
-### https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
-### https://www.udacity.com/course/advanced-android-with-kotlin--ud940
-### https://www.udacity.com/course/gradle-for-android-and-java--ud867
-### https://www.udacity.com/course/material-design-for-android-developers--ud862
+### https://www.udacity.com/course/mobile-design-and-usability-for-android--ud358 Approx. 2 Weeks
+### https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352 Approx. 2 Days
+### https://www.udacity.com/course/kotlin-for-android-developers--ud888 Approx. 1 Weeks
+### https://www.udacity.com/course/how-to-install-android-studio--ud808 Approx. 1 Day
+### https://www.udacity.com/course/firebase-analytics-android--ud354 Approx. 2 Days
+### https://www.udacity.com/course/android-performance--ud825 Approx. 4 Weeks
+### https://www.udacity.com/course/android-basics-user-interface--ud834 Approx. 2 Weeks
+### https://www.udacity.com/course/android-basics-user-input--ud836 Approx. 4 Weeks
+### https://www.udacity.com/course/android-basics-multi-screen-apps--ud839 Approx. 2 Months
+### https://www.udacity.com/course/android-basics-networking--ud843 Approx. 5 Weeks
+### https://www.udacity.com/course/android-basics-data-storage--ud845 Approx. 8 Weeks
+### https://www.udacity.com/course/new-android-fundamentals--ud851 Approx. 60 Hours
+### https://www.udacity.com/course/advanced-android-app-development--ud855 Approx. 6 Weeks
+### https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012 80h Approx. 2 Months
+### https://www.udacity.com/course/advanced-android-with-kotlin--ud940 17h Approx. 2 Months
+### https://www.udacity.com/course/gradle-for-android-and-java--ud867 Approx. 6 Weeks
+### https://www.udacity.com/course/material-design-for-android-developers--ud862 Approx. 4 Weeks
 ### https://www.udacity.com/course/android-wear-development--ud875A
-### https://www.udacity.com/course/android-interview-prep--ud241
+### https://www.udacity.com/course/android-interview-prep--ud241 Approx. 1 Week
 ### https://www.codecademy.com/learn/learn-the-basics-of-android
 ### https://app.pluralsight.com/library/courses/android-application-basics-understanding/table-of-contents 4h15m
-### https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012 80h
-### https://www.udacity.com/course/advanced-android-with-kotlin--ud940 17h
+
 ### https://developer.android.com/courses/kotlin-android-fundamentals/overview
 ### https://developer.android.com/courses/kotlin-android-fundamentals/toc
 ### https://alison.com/courses/create-android-apps-using-firestore/content
