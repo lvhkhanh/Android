@@ -11,6 +11,7 @@
 ## Downloads
 ### https://developer.android.com/studio/preview
 ## Prerequisites
+### https://developers.facebook.com/?utm_source=Udacity&utm_medium=Learn%20Page&utm_campaign=Udacity_Course2
 ### https://www.udacity.com/course/how-to-use-git-and-github--ud775
 ### https://www.udacity.com/course/version-control-with-git--ud123 Approx. 4 Weeks
 ### https://www.udacity.com/course/github-collaboration--ud456 Approx. 4 Weeks
@@ -47,6 +48,7 @@
 ### https://codelabs.developers.google.com/codelabs/android-performance-tuner-unity/index.html?index=..%2F..index
 ### https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin
 ## Courses
+### https://www.udacity.com/course/passwordless-login-solutions-for-android--ud357 Approx. 1 Weeks
 ### https://www.udacity.com/course/ux-design-for-mobile-developers--ud849 Approx. 6 Weeks
 ### https://www.udacity.com/course/mobile-design-and-usability-for-android--ud358 Approx. 2 Weeks
 ### https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352 Approx. 2 Days
