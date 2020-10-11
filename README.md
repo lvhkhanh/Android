@@ -11,12 +11,17 @@
 ## Downloads
 ### https://developer.android.com/studio/preview
 ## Prerequisites
+### https://www.udacity.com/course/version-control-with-git--ud123 Approx. 4 Weeks
+### https://www.udacity.com/course/github-collaboration--ud456 Approx. 4 Weeks
 ### https://www.codecademy.com/learn/learn-kotlin/
 ### https://www.codecademy.com/learn/learn-java
 ### where java add JAVA_HOME to PATH
 ## Ebooks
 ### https://www.syncfusion.com/ebooks/android
 ## Paths
+### https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803 120h 3 Months At 10 hrs/week
+### https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801 240h 6 Months at 10hrs/week
+
 - [x]  https://app.pluralsight.com/paths/skills/android-development-with-kotlin-fundamentals 17h [fallback](https://app.pluralsight.com/paths/skill/android-development-with-kotlin-fundamentals)
 ### https://app.pluralsight.com/paths/skill/google-android-associate-developer-aad 27h
 ### https://www.pluralsight.com/paths/google-android-associate-developer-aad
@@ -41,6 +46,19 @@
 ### https://codelabs.developers.google.com/codelabs/android-performance-tuner-unity/index.html?index=..%2F..index
 ### https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin
 ## Courses
+### https://www.udacity.com/course/android-basics-user-interface--ud834
+### https://www.udacity.com/course/android-basics-user-input--ud836
+### https://www.udacity.com/course/android-basics-multi-screen-apps--ud839
+### https://www.udacity.com/course/android-basics-networking--ud843
+### https://www.udacity.com/course/android-basics-data-storage--ud845
+### https://www.udacity.com/course/new-android-fundamentals--ud851
+### https://www.udacity.com/course/advanced-android-app-development--ud855
+### https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
+### https://www.udacity.com/course/advanced-android-with-kotlin--ud940
+### https://www.udacity.com/course/gradle-for-android-and-java--ud867
+### https://www.udacity.com/course/material-design-for-android-developers--ud862
+### https://www.udacity.com/course/android-wear-development--ud875A
+### https://www.udacity.com/course/android-interview-prep--ud241
 ### https://www.codecademy.com/learn/learn-the-basics-of-android
 ### https://app.pluralsight.com/library/courses/android-application-basics-understanding/table-of-contents 4h15m
 ### https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012 80h
