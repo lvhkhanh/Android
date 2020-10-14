@@ -225,3 +225,5 @@ clean code, best practices, coding conventions, checklist
 ```
 kotlin/java -> *.class -> Dalvik Executable (DEX) -> Dalvik virtual machine used by Android -> Android Package (APK)
 ```
+### Data Binding
+### View Binding
