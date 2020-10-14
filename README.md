@@ -219,6 +219,7 @@ accent
 annotation, binding, observable
 shrink
 clean code, best practices, coding conventions, checklist
+attachToParent when custom view include in fragment?
 ```
 
 ## Build Process
