@@ -49,6 +49,7 @@
 ### https://codelabs.developers.google.com/codelabs/android-performance-tuner-unity/index.html?index=..%2F..index
 ### https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin
 ## Courses
+- [ ] https://www.tutorialspoint.com/android/
 ### https://www.udacity.com/course/passwordless-login-solutions-for-android--ud357 Approx. 1 Weeks
 ### https://www.udacity.com/course/ux-design-for-mobile-developers--ud849 Approx. 6 Weeks
 ### https://www.udacity.com/course/mobile-design-and-usability-for-android--ud358 Approx. 2 Weeks
